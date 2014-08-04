@@ -1,9 +1,11 @@
 TightBeam
 =========
 
-Like Ansible, with two differences: nowhere near as ambitious; nowhere near as verbose.
+![TightBeam logo](doc/logo.png)
 
-With TightBeam, everything is straightforward. No agent required; a very basic remote server should be manageable.
+TB is like Ansible, with two differences: nowhere near as ambitious; nowhere near as verbose.
+
+With TightBeam, everything is straightforward. No agent required; an off the shelf remote server should be manageable.
 
 # Q&A
 
